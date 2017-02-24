@@ -9,4 +9,4 @@ Credit: "Global Map of Honduras © ISCGM/Direccion General de Catastro y Geograf
 
 Contact: Direccion General de Catastro y Geografia, General Direction for Cadastre and Geography.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/honduras.png)
+E-mail: ![email](email.png)
